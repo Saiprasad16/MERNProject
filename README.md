@@ -1,5 +1,7 @@
 # Memories
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saiprasad16/MERNProject-counter&count_bg=%23BA1BD4&title_bg=%23555555&icon=&icon_color=blueviolet&title=Hits&edge_flat=false&style=plastic)
+
 ![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)
 
 ## Introduction
